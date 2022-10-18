@@ -360,7 +360,7 @@ header .list li:hover a{
 .qouet{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/imgs/client.webp);
+    background-image: url(imgs/client.webp);
     object-fit: cover;
     background-size: cover;
     position: relative;
